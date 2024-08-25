@@ -4,7 +4,7 @@ racking,First-name,Name,Nationality,Position,age,tall(m),weight,start_career,clu
 3,Pieter-Steph,Du Toit,South Africa,Backrow,32,2,116,2013,Toyota Verblitz,Japan rugby leage,35,7,0,4,,2,10,,,,,,,,,,,12,10,0,2,12,3,15,856,1,0
 4,Caelen,Doris,Ireland,Backrow,26,193,106,2017,Leinster,United Rugby Championship,7,5,0,2,6,1,5,382,champions cup,8,7,0,1,8,3,15,618,15,12,0,2,12,3,15,1069,1,0
 5,Eben,Etzebeth,South Africa,Secondrow,32,2.03,126,2013,sharks,United Rugby Championship,7,4,0,3,7,1,5,383,Challenge Cup,6,5,0,1,5,1,5,324,12,10,0,2,11,1,5,603,2,0
-6,Dan,Sheehan,Ireland,Hooker,25,1.91,110,2021, Leinster Rugby,United Rugby Championship,10,8,0,2,5,5,25,401,Challenge Cup,8,7,0,1,8,3,15,457,10,7,0,3,9,6,30,502,0,0
+6,Dan,Sheehan,Ireland,Hooker,25,1.91,110,2021,Â Leinster Rugby,United Rugby Championship,10,8,0,2,5,5,25,401,Challenge Cup,8,7,0,1,8,3,15,457,10,7,0,3,9,6,30,502,0,0
 7,Damian,Penaud,France,Winger,27,1.88,97,2016,Bordeaux,Top 14,16,11,0,5,15,14,70,1133,champions cup,4,4,0,0,4,4,20,320,11,8,1,2,11,10,50,400,0,0
 8,Will,Jordan,New Zealand,Utility Back,26,1.88,94,,Crusaders,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,0,4,9,10,50,633,1,0
 9,Cheslin,Kolbe,South Africa,Winger,30,1.71,76,2013,none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,2,10,3,15,712,1,0
@@ -20,7 +20,7 @@ racking,First-name,Name,Nationality,Position,age,tall(m),weight,start_career,clu
 19,Jordie,Barrett,New Zealand,Center,27,1.96,102,2016,Hurricanes,Super Rugby Pacific,13,10,0,3,12,5,41,931,None,0,0,0,0,0,0,0,0,11,8,0,3,10,1,13,683,0,1
 20,Ox,Nche,South Africa,Prop,29,1.76,123,2015,sharks,United Rugby Championship,10,4,0,6,7,2,10,468,Challenge Cup,8,7,0,1,8,3,15,490,14,12,0,2,6,0,0,551,0,0
 21,Romain,Ntamack,France,Fly,25,1.86,94,2013,Stade Toulousain,Top 14,4,4,0,0,4,0,2,254,Champions Cup,4,4,0,0,4,1,5,318,1,1,0,0,1,1,5,55,0,0
-22,Richie,Mo’unga,New Zealand,Fly,30,1.76,86,2015,Toshiba Brave Lupus Tokyo,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,3,7,1,56,572,0,0
+22,Richie,Moâ€™unga,New Zealand,Fly,30,1.76,86,2015,Toshiba Brave Lupus Tokyo,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,3,7,1,56,572,0,0
 23,Josh,van-der-Flier,Ireland,Backrow ,31,1.83,105,2014,Leinster Rugby,United Rugby Championship,7,5,0,2,6,2,10,397,Champions Cup,8,7,0,1,5,3,15,441,14,11,0,3,12,0,0,886,0,0
 24,RG,Snyman,South Africa,Secondrow ,29,2.07,131,2015,Munster Rugby,United Rugby Championship,10,9,0,1,8,5,25,521,None,0,0,0,0,0,0,0,0,11,8,0,2,2,1,5,525,0,0
 25,Scott,Barrett,New Zealand,Secondrow ,30,1.97,119,2013,Crusaders,Super Rugby Pacific,5,1,0,4,5,1,5,318,None,0,0,0,0,0,0,0,0,11,8,0,3,9,0,0,700,2,1
@@ -33,7 +33,7 @@ racking,First-name,Name,Nationality,Position,age,tall(m),weight,start_career,clu
 32,Owen,Farrell,England,Fly,32,1.88,94,2012,Saracens,Premiership,13,8,0,5,13,1,103,1007,champions cup,4,2,0,2,4,0,40,320,6,5,0,1,6,0,84,462,0,1
 33,James,Lowe,Ireland,Winger,32,1.88,105,2013,Leinster Rugby,United Rugby Championship,3,2,0,1,3,4,20,143,champions cup,6,5,0,1,6,6,30,480,13,10,0,3,13,7,35,978,2,0
 34,Malcolm,Marx,South Africa,Hooker ,30,1.89,116,2013,Kubota Spears Funabashi Tokyo-Bay,,,,,,,,,,,,,,,,,,,8,7,0,1,4,4,20,297,1,0
-35,Tommasso,Menoncello,Italy,Utility Back,22,1.87,101,2020,Benetton Rugby Trévise,United Rugby Championship,8,5,0,3,8,3,15,512,Challenge Cup,5,4,0,1,5,3,15,400,10,4,1,5,10,1,5,778,1,0
+35,Tommasso,Menoncello,Italy,Utility Back,22,1.87,101,2020,Benetton Rugby TrÃ©vise,United Rugby Championship,8,5,0,3,8,3,15,512,Challenge Cup,5,4,0,1,5,3,15,400,10,4,1,5,10,1,5,778,1,0
 36,Kurt,Lee-Arendse,South Africa,Winger,28,1.76,82,2019,Bulls,United Rugby Championship,13,9,0,4,13,10,50,925,champions cup,2,2,0,0,2,0,0,160,11,9,0,2,10,7,35,783,2,0
 37,Levani,Botia,Fiji,Center,35,1.82,103,2013,Stade Rochelais,Top 14,14,8,0,6,13,3,15,858,champions cup,6,3,0,3,6,0,0,395,6,2,0,4,5,1,5,383,2,0
 38,Garry,Ringrose,Ireland,Center,29,1.86,90,2015,Leinster Rugby,United Rugby Championship,4,3,0,1,4,1,5,226,champions cup,4,4,0,0,4,0,0,308,10,8,0,2,7,2,10,578,0,0
@@ -43,7 +43,7 @@ racking,First-name,Name,Nationality,Position,age,tall(m),weight,start_career,clu
 42,Robbie,Henshaw,Ireland,Center,31,1.91,100,2013,Leinster,United Rugby Championship,7,5,0,2,7,1,5,427,champions cup,8,7,0,1,8,2,10,650,11,9,0,2,9,0,0,705,1,0
 43,Damian,McKenzie,New Zealand,Utility Back,29,1.77,81,2014,Chiefs,Super Rugby Pacific,15,10,0,5,15,2,177,1102,None,0,0,0,0,0,0,0,0,12,10,0,2,8,6,122,576,0,0
 44,Damian,De-Allende,South Africa,Center,32,1.89,106,2013,Munster Rugby,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,2,9,1,0,727,0,0
-45,Peter,O’Mahony,Ireland,Backrow ,34,1.91,108,2012,Munster Rugby,United Rugby Championship,8,7,0,1,8,0,0,392,champions cup,3,1,0,2,3,1,5,183,13,10,0,3,11,2,10,717,3,0
+45,Peter,Oâ€™Mahony,Ireland,Backrow ,34,1.91,108,2012,Munster Rugby,United Rugby Championship,8,7,0,1,8,0,0,392,champions cup,3,1,0,2,3,1,5,183,13,10,0,3,11,2,10,717,3,0
 46,Julian,Montoya,Argentine,Hooker,30,1.83,113,2015,Leicester,Premiership,11,7,0,4,11,3,15,738,champions cup,4,1,0,3,4,0,0,301,10,4,0,6,10,0,0,641,0,0
 47,Lukhayno,Am,South Africa,Hooker,30,1.86,93,2015,sharks,United Rugby Championship,10,4,0,6,10,2,10,757,Challenge Cup,7,6,0,1,7,4,20,539,3,3,0,0,3,1,5,200,0,0
 48,Jack,Willis,England,Backrow ,27,1.9,112,2016,Wasps,Top 14,14,9,1,4,11,3,15,781,champions cup,6,6,0,0,5,1,5,418,4,2,0,2,2,1,5,191,1,0
@@ -76,18 +76,18 @@ racking,First-name,Name,Nationality,Position,age,tall(m),weight,start_career,clu
 75,Sevu,Reece,New Zealand,Winger,27,1.79,98,2018,Crusaders,Super Rugby Pacific,13,3,0,10,13,12,60,1030,None,0,0,0,0,0,0,0,0,4,3,0,1,4,2,10,268,1,0
 76,Paolo,Garbisi,Italy,Fly,24,1.84,97,2018,Rugby Club Toulonnais,top14,18,8,0,10,10,1,39,937,Challenge Cup,3,2,0,1,3,0,11,222,15,8,1,5,15,2,83,1172,0,0
 77,Charles,Ollivon,France,Backrow,31,1.99,114,2004,Rugby Club Toulonnais,top14,12,8,0,4,11,1,5,841,champions cup,2,0,0,2,0,0,0,160,11,8,1,2,11,4,20,785,1,0
-78,Ben,Tameifuna,Tonga,Prop,32,1.88,151,2011,Union Bordeaux-Bègles,top14,22,13,0,9,12,1,5,918,champions cup,5,3,0,2,3,0,0,226,9,4,0,6,8,2,10,249,1,0
+78,Ben,Tameifuna,Tonga,Prop,32,1.88,151,2011,Union Bordeaux-BÃ¨gles,top14,22,13,0,9,12,1,5,918,champions cup,5,3,0,2,3,0,0,226,9,4,0,6,8,2,10,249,1,0
 79,Tommy,Reffell,Wales,Backrow ,25,1.83,100,2017,Leicester,Premiership,12,7,0,5,12,5,25,806,champions cup,2,1,0,1,0,0,0,110,11,2,0,9,10,0,0,764,1,0
 80,Immanuel,Feyi-Waboso,England,Winger,21,1.83,89,2018,Exeter Chiefs,Premiership,14,8,0,6,13,10,50,993,champions cup,4,3,0,1,4,0,0,250,7,4,0,3,4,4,20,304,1,0
 81,Marcus,Smith,England,FlyHalf ,25,1.75,82,2017,Harlequins,Premiership,13,6,0,7,12,3,88,966,champions cup,7,5,0,2,7,4,85,553,14,8,0,6,7,5,59,659,1,0
 82,Rory,Darge,Scotland,Backrow,24,1.86,102,2019,Glasgow Warriors,United Rugby Championship,14,9,0,5,13,1,5,829,champions cup,2,0,0,2,2,0,0,160,15,9,0,6,12,4,20,916,0,0
 83,Steven,Kitshoff,South Africa,Prop,32,1.83,126,2010,Ulster Rugby,United Rugby Championship,8,3,0,5,5,0,0,369,champions cup,4,1,0,3,4,0,0,264,9,8,0,1,7,0,0,394,0,0
 84,Manie,Libbok,South Africa,Fly,27,1.8,80,2017,Stormers,United Rugby Championship,12,9,0,3,12,0,111,949,champions cup,4,3,0,1,4,1,42,320,10,9,0,8,0,0,60,536,0,0
-85,Ronan,Kelleher,Ireland,Hooker,26,1.85,106,2018,Leinster Rugby ,United Rugby Championship,10,8,0,2,7,2,10,428,champions cup,8,7,0,1,0,0,0,203,12,9,0,3,3,1,5,387,1,0
-86,Michelle,Lamaro,Italy,Backrow,26,1.88,103,2018,Benetton Rugby Trévise,United Rugby Championship,12,9,0,3,11,1,5,764,Challenge Cup,4,2,0,2,3,0,0,276,15,8,1,6,14,2,10,1049,2,0
+85,Ronan,Kelleher,Ireland,Hooker,26,1.85,106,2018,Leinster RugbyÂ ,United Rugby Championship,10,8,0,2,7,2,10,428,champions cup,8,7,0,1,0,0,0,203,12,9,0,3,3,1,5,387,1,0
+86,Michelle,Lamaro,Italy,Backrow,26,1.88,103,2018,Benetton Rugby TrÃ©vise,United Rugby Championship,12,9,0,3,11,1,5,764,Challenge Cup,4,2,0,2,3,0,0,276,15,8,1,6,14,2,10,1049,2,0
 87,Jack,Conan,Ireland,Backrow,32,1.93,111,2013,Leinster Rugby,United Rugby Championship,9,6,0,3,5,2,10,402,champions cup,7,6,0,1,0,1,5,152,8,6,0,2,2,1,5,252,1,0
 88,Julian,Marchand,France,Hooker,29,1.81,110,2005,Stade Toulousain,top14,9,6,0,3,6,2,10,422,champions cup,6,6,0,0,0,0,0,176,8,6,1,1,5,0,0,297,1,0
-89,Louis,Bielle-Biarrey,France,Winger,21,1.85,84,2008,Union Bordeaux-Bègles,top14,15,9,0,6,12,5,25,1004,champions cup,5,3,0,2,5,6,30,388,11,8,0,3,9,6,30,751,0,0
+89,Louis,Bielle-Biarrey,France,Winger,21,1.85,84,2008,Union Bordeaux-BÃ¨gles,top14,15,9,0,6,12,5,25,1004,champions cup,5,3,0,2,5,6,30,388,11,8,0,3,9,6,30,751,0,0
 90,Zander,Fagerson,Scotland,Prop,28,1.88,125,2014,Glasgow Warriors,United Rugby Championship,16,11,0,5,12,0,0,864,champions cup,5,2,0,3,4,0,0,278,9,4,0,5,8,1,5,560,1,1
 91,Duhan,van-der-Merwe,Scotland,Winger,29,1.93,106,2015,Edimbourg Rugby,United Rugby Championship,12,6,0,6,12,3,15,942,Challenge Cup,5,3,0,2,5,4,20,401,13,7,0,6,11,11,55,1020,3,0
 92,George,Furbank,England,Fullback,27,1.82,93,2017,Northampton Saints,Premiership,13,11,0,2,13,4,51,1040,champions cup,6,5,0,1,5,2,10,410,5,2,0,3,5,4,10,327,1,0
